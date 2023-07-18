@@ -3,7 +3,7 @@ import { GlobalStyle } from "globalStyles";
 function App() {
   return (
     <AppWrapper>
-      <p>My React Template</p>
+      <p>My Test with Template</p>
       <GlobalStyle />
     </AppWrapper>
   );
